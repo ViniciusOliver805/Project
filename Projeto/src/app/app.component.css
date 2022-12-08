@@ -1,0 +1,8 @@
+.dualCard{
+    display:flex;
+}
+.bottomCard{
+    display: block;
+    position: relative;
+    top: 180px;
+}

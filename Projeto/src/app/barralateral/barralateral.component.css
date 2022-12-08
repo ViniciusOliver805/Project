@@ -1,0 +1,44 @@
+.sidenav-container {
+  height: 100%;
+  background-image: url(https://images6.alphacoders.com/368/368992.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+.sidenav {
+  width: 200px;
+  background-color: transparent;
+  
+
+  
+}
+
+
+
+.sidenav .mat-toolbar {
+  background: inherit;
+  
+  
+
+
+}
+
+.mat-toolbar.mat-primary .butaozinho {
+  right: 100px;
+  position: absolute;
+
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: transparent;
+  
+
+
+
+}
+
